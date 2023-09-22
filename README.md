@@ -2,5 +2,5 @@
 
 Movie Project- group repo
 
-Right now - just pulling 2000-2007
+Right now - we have 111k movies with theatrical release dates (movie_release_date)
 Omitting entries w/Revenue=0
