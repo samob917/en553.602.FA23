@@ -1,2 +1,0 @@
-2019
-Rank,Name,Star Score,Movies,Average Billing
