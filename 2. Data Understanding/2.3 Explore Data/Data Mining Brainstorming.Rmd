@@ -1,0 +1,15 @@
+---
+title: "Untitled"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+install.packages("readr")
+library(readr)
+```
+
+
+```{r}
+df<-readr::read_tsv("C:\\Users\\sri06\\Desktop\\Student_Details.tsv")
+print(df)
+```
