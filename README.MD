@@ -1,0 +1,21 @@
+BIG ISSUES
+
+- Missing IDS
+  - Not sure why some are missing
+  - Maybe says it doesnt have a theatrical release data
+- Handling Budgets
+  - Possibilities:
+    - IMDB missing and TMDB missing
+      - A LOT OF THESE
+      - Maybe drop
+      - Maybe interpolate
+    - IMDB present and TMDB present
+      - 2512 of these
+      - Use IMDB
+    - IMDB missing and TMDB present
+      - 118 of these
+      - Use TMDB and verify
+    - IMDB present and TMDB missing
+      - 3797 of these
+      - Use IMDB
+- Checking which IDS are missing
