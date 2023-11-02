@@ -37,3 +37,4 @@ BIG ISSUES
 - APPENDING STAR SCORES
 
 - CHECK 118 MISSING IMDB REVENUES
+  - also need to implement date (fed holiday or not)
