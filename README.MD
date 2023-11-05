@@ -33,3 +33,4 @@ BIG ISSUES
 - CAST SIMILARITIES
 
 - CHECK 118 MISSING IMDB REVENUES
+  - also need to implement date (fed holiday or not)
